@@ -10,7 +10,7 @@
 https://docs.google.com/forms/d/e/1FAIpQLSf6f7g_0ZNNJNn2OcvgU1YmFhhqUuiHYjO2BRbchyLG6gTpSg/viewform?usp=sf_link
 
 Чатик в telegram: 
-https://t.me/joinchat/AAAAAFNu8PdUwbYtsDxM1Q
+https://t.me/joinchat/A98O_RCHDwXC-MXJcnGBsw
 
 Ссылка на google colab:
 https://colab.research.google.com/
