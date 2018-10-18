@@ -7,3 +7,6 @@ http://wiki.cs.hse.ru/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%
 
 Самостоятельная 4 (Для ИАД2, группы Панова)
 https://docs.google.com/forms/d/e/1FAIpQLScwCc2on2g7Zw2EFcs_TwiCNIkclWBWn05ODqSpUCwhYU1d8Q/viewform?usp=sf_link
+
+Самостоятельная 4 (Для ИАД5)
+https://docs.google.com/forms/d/e/1FAIpQLSfCpYu5JQpmEZnHwn2NSiA1Wd61_CCYA36eF0SDInd2l_I9ow/viewform?usp=sf_link
