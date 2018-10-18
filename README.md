@@ -1,6 +1,6 @@
 Самостоятельная 4 (Для ИАД5): [СМ4](https://docs.google.com/forms/d/e/1FAIpQLSfCpYu5JQpmEZnHwn2NSiA1Wd61_CCYA36eF0SDInd2l_I9ow/viewform?usp=sf_link)
 
-ИАД5 Результаты за самостоятельные: [СМ[1,2,3]](https://docs.google.com/spreadsheets/d/1L5-MYqdwmoeM325RceZUtYxYsi7DnFyHslBKiAf1m20/edit?usp=sharing)
+ИАД5 Результаты проверочных: [СМ[1,2,3]](https://docs.google.com/spreadsheets/d/1L5-MYqdwmoeM325RceZUtYxYsi7DnFyHslBKiAf1m20/edit?usp=sharing)
 
 
 Ссылка на вики: 
@@ -9,5 +9,8 @@ http://wiki.cs.hse.ru/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%
 
 Канал в Telegram с важными объявлениями: [Общий канал](https://t.me/mml_2018)
 
+Чатик группы: [ИАД5 СММО2018](https://t.me/joinchat/A98O_RCHDwXC-MXJcnGBsw)
 
+Ссылка на слайды: [ZEMUSHKA/mml-minor](https://github.com/ZEMUSHKA/mml-minor)
 
+Ссылка на colab: [Google Colab](https://colab.research.google.com/)
