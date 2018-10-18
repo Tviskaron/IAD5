@@ -5,5 +5,5 @@ http://wiki.cs.hse.ru/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%
 
 Канал в Телеграме с важными объявлениями: [Общий канал](https://t.me/mml_2018)
 
-Самостоятельная 3
-https://docs.google.com/forms/d/e/1FAIpQLSc7qpGZSHWc2ezeeSgjsslfBxuROYWpr6KgYUE9wlDOgda62g/viewform?usp=sf_link
+Самостоятельная 4 (Для ИАД2, группы Панова)
+https://docs.google.com/forms/d/e/1FAIpQLScwCc2on2g7Zw2EFcs_TwiCNIkclWBWn05ODqSpUCwhYU1d8Q/viewform?usp=sf_link
