@@ -25,7 +25,7 @@ class SimpleTqdm():
         last_print_step = (self.current_step // self.print_frequency) * self.print_frequency
         i = 1
         while last_print_step + i * self.print_frequency <= self.current_step + steps:
-            print("*", end='')
+            #print("*", end='')
             i += 1
         self.current_step += steps
 
