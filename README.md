@@ -1,3 +1,7 @@
+
+Самостоятельная 6: [СМ6](https://docs.google.com/forms/d/e/1FAIpQLScCVyFhfly_BNDProFEVyLhIX0VG-RPuUVnF1t1qpqlFfxpng/viewform?usp=sf_link)
+
+
 Самостоятельная 5: [СМ5](https://docs.google.com/forms/d/1Vo_Jeakr4n3AAe3u3RWIFJqtqI7etJJQQFNujL5BsK0/edit#responses)
 
 Самостоятельная 4 (Для ИАД5): [СМ4](https://docs.google.com/forms/d/e/1FAIpQLSfCpYu5JQpmEZnHwn2NSiA1Wd61_CCYA36eF0SDInd2l_I9ow/viewform?usp=sf_link)
