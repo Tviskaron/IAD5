@@ -1,3 +1,4 @@
+Самостоятельная 7: [СМ7](https://goo.gl/forms/0DSifn2ArfKCdWVq2)
 
 Самостоятельная 6: [СМ6](https://docs.google.com/forms/d/e/1FAIpQLScCVyFhfly_BNDProFEVyLhIX0VG-RPuUVnF1t1qpqlFfxpng/viewform?usp=sf_link)
 
