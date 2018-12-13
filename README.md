@@ -14,3 +14,5 @@ http://wiki.cs.hse.ru/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%
 Ссылка на слайды: [ZEMUSHKA/mml-minor](https://github.com/ZEMUSHKA/mml-minor)
 
 Ссылка на colab: [Google Colab](https://colab.research.google.com/)
+
+см8 https://goo.gl/forms/gPTOgDvGpuUQH17w1
