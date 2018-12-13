@@ -1,4 +1,4 @@
-Самостоятельная [СМ ](https://docs.google.com/forms/d/e/1FAIpQLSdCgYtQbjYaiTlf_tAzfA3m4isUdYVNjpAaTtNYGwVZrJrkXw/viewform?usp=sf_link)
+Самостоятельная по tf [СМ](https://goo.gl/forms/P93EkQ2yVaIzgIbm1)
 
 ИАД5 Результаты самостоятельных: [СМ[1-7]](https://docs.google.com/spreadsheets/d/1L5-MYqdwmoeM325RceZUtYxYsi7DnFyHslBKiAf1m20/edit?usp=sharing)
 
